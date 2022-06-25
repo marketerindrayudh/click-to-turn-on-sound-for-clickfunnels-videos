@@ -37,17 +37,17 @@ CSS:
 
     position: absolute;
 
-    left: 20px;
+    left: 10px;
 
-    top: 20px;
+    top: 10px;
 
-    width: 200px;
+    width: 120px;
 
-    height: 80px;
+    height: 40px;
 
     z-index: 5;
 
-    background: url('https://images.clickfunnels.com/a7/585321508e4ff69a859ae51bb333b6/sound_on.jpg') no-repeat center;
+    background: url('https://images.clickfunnels.com/25/107c8186a9496fa09767cad8d61f51/sound-on3.png') no-repeat center;
 
           background-size: contain;
 
@@ -152,4 +152,6 @@ Image URLs:
 
 "Click to turn on sound" :
 
-https://images.clickfunnels.com/a7/585321508e4ff69a859ae51bb333b6/sound_on.jpg
+https://images.clickfunnels.com/25/107c8186a9496fa09767cad8d61f51/sound-on3.png
+
+*/Add this image first, then copy the image URL and delete the image element from CF editor, then change the image URL in the CSS code
